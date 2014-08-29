@@ -1,0 +1,219 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{\uppercase{TEBEH06}}
+
+\bibitem[ABM82]{abend1982human}
+\textsc{Abend W., Bizzi E., Morasso P.}:
+\newblock Human arm trajectory formation.
+\newblock \emph{Brain} (1982).
+
+\bibitem[ADO10]{adobe123}
+\textsc{ADOBE}:
+\newblock Illustrator.
+
+\bibitem[BBM05]{berg2005shape}
+\textsc{Berg A., Berg T., Malik J.}:
+\newblock Shape matching and object recognition using low distortion
+  correspondences.
+\newblock In \emph{CVPR} (2005).
+
+\bibitem[BMP01]{belongie2001matching}
+\textsc{Belongie S., Malik J., Puzicha J.}:
+\newblock Matching shapes.
+\newblock In \emph{ICCV} (2001).
+
+\bibitem[BSM{\etalchar{*}}13]{Berger:2013:SAP:2461912.2461964}
+\textsc{Berger I., Shamir A., Mahler M., Carter E., Hodgins J.}:
+\newblock Style and abstraction in portrait sketching.
+\newblock \emph{TOG} (2013).
+
+\bibitem[CGL{\etalchar{*}}08]{Cole:2008:PDL:1360612.1360687}
+\textsc{Cole F., Golovinskiy A., Limpaecher A., Barros H.~S., Finkelstein A.,
+  Funkhouser T., Rusinkiewicz S.}:
+\newblock Where do people draw lines?
+\newblock \emph{TOG} (2008).
+
+\bibitem[EHA12]{eitz2012hdhso}
+\textsc{Eitz M., Hays J., Alexa M.}:
+\newblock How do humans sketch objects?
+\newblock \emph{TOG} (2012).
+
+\bibitem[EHBA11]{5674030}
+\textsc{Eitz M., Hildebrand K., Boubekeur T., Alexa M.}:
+\newblock Sketch-based image retrieval: Benchmark and bag-of-features
+  descriptors.
+\newblock \emph{TVCG} (2011).
+
+\bibitem[FH85]{flash1985coordination}
+\textsc{Flash T., Hogan N.}:
+\newblock The coordination of arm movements: an experimentally confirmed
+  mathematical model.
+\newblock \emph{The journal of Neuroscience} (1985).
+
+\bibitem[FK01]{handwriting2001}
+\textsc{Franke K., Köppen M.}:
+\newblock A computer-based system to support forensic studies on handwritten
+  documents.
+\newblock \emph{International Journal on Document Analysis and Recognition}
+  (2001).
+
+\bibitem[FTP03]{Freeman03learningstyle}
+\textsc{Freeman W.~T., Tenenbaum J.~B., Pasztor E.~C.}:
+\newblock Learning style translation for the lines of a drawing.
+\newblock \emph{TOG} (2003).
+
+\bibitem[Gan10]{gani2010new}
+\textsc{Gani A.}:
+\newblock A new algorithm on graphical user authentication (gua) based on
+  multi-line grids.
+\newblock \emph{Scientific Research and Essays} (2010).
+
+\bibitem[GM07]{Govindarajulu:2007:PMU:1322192.1322233}
+\textsc{Govindarajulu N.~S., Madhvanath S.}:
+\newblock Password management using doodles.
+\newblock In \emph{ICMI} (2007).
+
+\bibitem[IAP{\etalchar{*}}11]{ion-cviu-11}
+\textsc{Ion A., Artner N.~M., Peyr{\'e} G., Kropatsch W.~G., Cohen L.~D.}:
+\newblock Matching 2d and 3d articulated shapes using the eccentricity
+  transform.
+\newblock \emph{Computer Vision and Image Understanding} (2011).
+
+\bibitem[IP08]{4603099}
+\textsc{Impedovo D., Pirlo G.}:
+\newblock Automatic signature verification: The state of the art.
+\newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics} (2008).
+
+\bibitem[JHY03]{jin2003image}
+\textsc{Jin R., Hauptmann A., Yan R.}:
+\newblock Image classification using a bigram model.
+\newblock In \emph{AAAI Spring Symposium on Intelligent Multimedia Knowledge
+  Management} (2003).
+
+\bibitem[JZ97]{574797}
+\textsc{Jain A., Zongker D.}:
+\newblock Feature selection: evaluation, application, and small sample
+  performance.
+\newblock \emph{PAMI} (1997).
+
+\bibitem[KC13]{Kovari2013247}
+\textsc{Kovari B., Charaf H.}:
+\newblock A study on the consistency and significance of local features in
+  off-line signature verification.
+\newblock \emph{Pattern Recognition} (2013).
+
+\bibitem[KCWI13]{Kyprianidis:2013:TAS}
+\textsc{Kyprianidis J.~E., Collomosse J., Wang T., Isenberg T.}:
+\newblock State of the ‘art’: A taxonomy of artistic stylization techniques
+  for images and video.
+\newblock \emph{TVCG} (2013).
+
+\bibitem[KNBH12]{Kalogerakis:2012:mlhatching}
+\textsc{Kalogerakis E., Nowrouzezahrai D., Breslav S., Hertzmann A.}:
+\newblock Learning hatching for pen-and-ink illustration of surfaces.
+\newblock \emph{TOG} (2012).
+
+\bibitem[LFTC13]{Limpaecher:2013:RDA:2461912.2462016}
+\textsc{Limpaecher A., Feltman N., Treuille A., Cohen M.}:
+\newblock Real-time drawing assistance through crowdsourcing.
+\newblock \emph{TOG} (2013).
+
+\bibitem[LW07]{lu2007survey}
+\textsc{Lu D., Weng Q.}:
+\newblock A survey of image classification methods and techniques for improving
+  classification performance.
+\newblock \emph{International journal of Remote sensing} (2007).
+
+\bibitem[LYFD12]{Lu:2012:HES}
+\textsc{Lu J., Yu F., Finkelstein A., DiVerdi S.}:
+\newblock Helpinghand: Example-based stroke stylization.
+\newblock In \emph{TOG} (2012).
+
+\bibitem[LZL08]{li2008expandable}
+\textsc{Li W., Zhang Z., Liu Z.}:
+\newblock Expandable data-driven graphical modeling of human actions based on
+  salient postures.
+\newblock \emph{Transactions on Circuits and Systems for Video Technology}
+  (2008).
+
+\bibitem[MM92]{mokhtarian1992theory}
+\textsc{Mokhtarian F., Mackworth A.}:
+\newblock A theory of multiscale, curvature-based shape representation for
+  planar curves.
+\newblock \emph{PAMI} (1992).
+
+\bibitem[MOA11]{Michel:2011:SID:1994006.1994152}
+\textsc{Michel D., Oikonomidis I., Argyros A.}:
+\newblock Scale invariant and deformation tolerant partial shape matching.
+\newblock \emph{IVC} (2011).
+
+\bibitem[Mor81]{morasso1981spatial}
+\textsc{Morasso P.}:
+\newblock Spatial control of arm movements.
+\newblock \emph{Experimental brain research} (1981).
+
+\bibitem[NHS{\etalchar{*}}13]{Noris:2013:TVC:2421636.2421640}
+\textsc{Noris G., Hornung A., Sumner R.~W., Simmons M., Gross M.}:
+\newblock Topology-driven vectorization of clean line drawings.
+\newblock \emph{TOG} (2013).
+
+\bibitem[OKX{\etalchar{*}}08]{4761233}
+\textsc{Oka M., Kato K., Xu Y., Liang L., Wen F.}:
+\newblock Scribble-a-secret: Similarity-based password authentication using
+  sketches.
+\newblock In \emph{ICPR} (2008).
+
+\bibitem[Ren09]{Renaud20091}
+\textsc{Renaud K.}:
+\newblock On user involvement in production of images used in visual
+  authentication.
+\newblock \emph{Journal of Visual Languages and Computing} (2009).
+
+\bibitem[SL03]{srisurvey03}
+\textsc{Srihari S.~N., Leedham G.}:
+\newblock {A survey of computer methods in forensic document examination}.
+
+\bibitem[SMGE11]{Shrivastava:2011:DVS:2024156.2024188}
+\textsc{Shrivastava A., Malisiewicz T., Gupta A., Efros A.~A.}:
+\newblock Data-driven visual similarity for cross-domain image matching.
+\newblock In \emph{SIGGRAPH} (2011).
+
+\bibitem[SS04]{1263248}
+\textsc{Srihari S., Shi Z.}:
+\newblock Forensic handwritten document retrieval system.
+\newblock In \emph{International Workshop on Document Image Analysis for
+  Libraries} (2004).
+
+\bibitem[SWZZ12]{Sun:2012:SAH:2393347.2396429}
+\textsc{Sun Z., Wang C., Zhang L., Zhang L.}:
+\newblock Sketch2tag: automatic hand-drawn sketch recognition.
+\newblock In \emph{ACM MM} (2012).
+
+\bibitem[SZ03]{Sivic03}
+\textsc{Sivic J., Zisserman A.}:
+\newblock {Video Google}: {A} text retrieval approach to object matching in
+  videos.
+\newblock In \emph{ICCV} (2003).
+
+\bibitem[Tau91]{taubin1991estimation}
+\textsc{Taubin G.}:
+\newblock Estimation of planar curves, surfaces, and nonplanar space curves
+  defined by implicit equations with applications to edge and range image
+  segmentation.
+\newblock \emph{PAMI} (1991).
+
+\bibitem[TEBEH06]{tolba2006face}
+\textsc{Tolba A., El-Baz A., El-Harby A.}:
+\newblock Face recognition: A literature review.
+\newblock \emph{International Journal of Signal Processing 2}, 2 (2006).
+
+\bibitem[VKR04]{varenhorst2004passdoodles}
+\textsc{Varenhorst C., Kleek M., Rudolph L.}:
+\newblock Passdoodles: A lightweight authentication method.
+\newblock \emph{Research Science Institute} (2004).
+
+\bibitem[WYG{\etalchar{*}}09]{4483511}
+\textsc{Wright J., Yang A., Ganesh A., Sastry S., Ma Y.}:
+\newblock Robust face recognition via sparse representation.
+\newblock \emph{PAMI} (2009).
+
+\end{thebibliography}
