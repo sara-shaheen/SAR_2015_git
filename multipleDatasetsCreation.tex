@@ -37,19 +37,19 @@ To evaluate the performance of SAR, we compile two new sketch datasets collected
 %We first collected the different views of Mickey images over the web and we asked 3 different artists to sketch them.
 
 %\vspace{-2mm}
-\noindent\textbf{Free Style Dataset.} We collected 10 images of objects from diverse semantic categories and then asked 7 artists to sketch them. The objects were chosen to be detailed enough to adequately reflect artistic style and to be relatively easy to replicate by an experienced artist in a reasonable amount of time. The 70 sketches (10 from each artist) were collected in three weeks. No constraints or specific instructions were given to the artists, thus, giving them complete sketching freedom. 
+\noindent\textbf{Free Style Dataset.} We collected 10 images of objects from diverse semantic categories and then asked 7 artists to sketch them. The objects were chosen to be detailed enough to adequately reflect artistic style and to be relatively easy to replicate by an experienced artist in a reasonable amount of time. The 70 sketches (10 from each artist) were collected in three weeks. No constraints or specific instructions were given to the artists, thus, giving them complete sketching freedom.
 %We will see that this constraint-free type of sketching allows artistic style to be more distinguishable among different artists than constraint-ridden sketching, of which sketch fraud is a prime example. %This dataset will be the first test of SAR's ability to determine authorship from sketched strokes alone.
 
 
 %\vspace{-2mm}
 \noindent\textbf{Fraud Dataset.}  Here, we simulate a sketch fraud scenario. Using the same images in the free style dataset, we chose the sketches of one of the artists as \emph{original} drawings. We asked the other 6 artists to draw all the original sketches. We provided them with an instruction sheet, where they were requested to draw the original sketches in such a way that it would be very hard to distinguish their \emph{own} drawings from the originals, thus, simulating sketch fraud. The 6 artists were prohibited from using methods or supplies (e.g. translucent tracing paper) that could produce copies of the original sketches. Over a period of 2 weeks, we collected a total of 60 sketches. (refer to Figure \ref{FraudDataset} for examples). Since the artists were requested to simulate sketch fraud, this dataset is highly constrained from an artistic style perspective. Therefore, it poses a substantial challenge to any authorship recognition system, albeit manual or automatic.
 
-\begin{figure*}[htbp!]
-\centering
-\includegraphics[width = 1.0\textwidth]{images/fraudExperiment.jpg}
-\vspace{-6mm}\caption {Samples of sketches from the fraud dataset. The first row shows the original sketches drawn by Artist A. The other three rows show the sketches of 2 other artists (Artists B and C), who attempted  sketch fraud. Obviously, the \emph{fraudulent} sketches look extremely similar to the originals, making authorship recognition (manual or automatic) quite difficult.}\vspace{-5mm}
-\label{FraudDataset}
-\end{figure*}
+%\begin{figure*}[htbp!]
+%\centering
+%\includegraphics[width = 1.0\textwidth]{images/fraudExperiment.jpg}
+%\vspace{-6mm}\caption {Samples of sketches from the fraud dataset. The first row shows the original sketches drawn by Artist A. The other three rows show the sketches of 2 other artists (Artists B and C), who attempted  sketch fraud. Obviously, the \emph{fraudulent} sketches look extremely similar to the originals, making authorship recognition (manual or automatic) quite difficult.}\vspace{-5mm}
+%\label{FraudDataset}
+%\end{figure*}
 
 %In this dataset, we simulate a sketch fraud scenario. We first collected 10 objects of various semantic categories and asked one of the participating artists to sketch them. From a fraud perspective, these 10 sketches can be considered to be \emph{original} drawings. The objects were chosen to be detailed enough to adequately reflect the artists' sketching style and to be relatively easy for any experienced artist to replicate in a reasonable amount of time. After the originals were generated, we tasked 6 other artists to draw them. Along with the original sketches, we provided them with an instruction sheet, in which we asked them to draw the provided sketches such that it would be very hard to distinguish their \emph{own} drawings from the \emph{original} ones, thus, simulating sketch fraud. The 6 artists were prohibited from using methods or supplies (e.g. translucent tracing paper) that would enable them to produce copies of the original sketches. Over a period of 2 weeks, we collected a total of 70 sketches from the 7 artists. Some sample sketches are shown in Figure \ref{FraudDataset}. Since the artists were requested to simulate sketch fraud, the generated dataset is considered highly constrained and significantly diverse in content. It poses a substantial challenge to any authorship recognition system, albeit manual or automatic.
 
