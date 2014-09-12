@@ -44,10 +44,8 @@
 % prepare for electronic version of your document
 % prepare for electronic version of your document
 \usepackage{t1enc,dfadobe}
-
 \usepackage{egweblnk}
 \usepackage{cite}
-
 \usepackage{epstopdf}
 \usepackage{float}
 \usepackage{verbatim}
@@ -55,7 +53,6 @@
 \usepackage{amsmath}
 \usepackage{multicol}
 \usepackage{caption}
-
 \usepackage{fontenc}
 \usepackage{csquotes}
 \usepackage{array}
@@ -115,13 +112,13 @@
 \teaser{
 \centering
 \includegraphics[width = 1.01\textwidth]{images/fullPipeline2.png}
-\vspace{-5mm}\caption {The SAR pipeline: 1. compile sketches from different artists; 2. extract strokes and split them into segments; 3. characterize each stroke segment mathematically 4. represent each sketch as a distribution of feature frequency; 5. Train a machine to recognize authorship based on 4.}%\vspace{-2mm}
+\vspace{-5mm}\caption {The SAR pipeline: 1. compile sketches from different artists; 2. extract strokes and split them into segments; 3. characterize each stroke segment mathematically 4. represent each sketch as a distribution of feature frequency; 5. Train a machine to recognize authorship based on 4. {\color{red}[The first module should be 'Datasets of Drawings Created by Artists'. The third should read (if space allows) 'Mathematical Characterization of Strokes'.]}}%\vspace{-2mm}
 \label{pipeline}}
 
 \maketitle
 
 \begin{abstract}
-Are simple strokes unique to the artist or designer who renders them? If so, can this idea be used to identify authorship or to classify the drawings? Also, could training methods be devised to develop particular styles? To answer these questions, we present the Stroke Authorship Recognition (SAR) approach, a novel approach to distinguish 2D digitized drawings. The SAR method converts a drawing into a histogram of stroke attributes that differentiate it from drawings of other artists. We describe extensive classifications on a large variety of datasets, which validate SAR's ability to distinguish unique authorship of artists and designers. Derivative applications also demonstrated include: the detecting fraudulent sketches, a training artists to learn a particular style, monitoring artist's training progress, and the first quantitative way to measure the quality of automatic sketch synthesis tools.\vspace{-1mm}
+Are simple strokes unique to the artist or designer who renders them? If so, can this idea be used to identify authorship or to classify artistic drawings? Also, could training methods be devised to develop particular styles? To answer these questions, we propose the Stroke Authorship Recognition (SAR) approach, a novel method that distinguishes the authorship of 2D digitized drawings. SAR converts a drawing into a histogram of stroke attributes that is discriminative of authorship. We provide extensive classification experiments on a large variety of datasets, which validate SAR's ability to distinguish unique authorship of artists and designers. We also demonstrate the usefulness of SAR in several applications including the detection of  fraudulent sketches, the training and monitoring of artists in learning a particular new style, and the first quantitative way to measure the quality of automatic sketch synthesis tools.\vspace{-1mm}
 \end{abstract}
 %-------------------------------------------------------------------------
 \vspace{-5mm}
